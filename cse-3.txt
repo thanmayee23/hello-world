@@ -1,0 +1,8 @@
+we are learning git commands.
+code:
+#include<stdio.h>
+int main()
+{
+printf("hello world");
+return 0;
+}
